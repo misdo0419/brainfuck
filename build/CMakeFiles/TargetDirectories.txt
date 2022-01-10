@@ -1,0 +1,3 @@
+/Users/dtech/downloads/brainfuck/build/CMakeFiles/brainfuck.dir
+/Users/dtech/downloads/brainfuck/build/CMakeFiles/edit_cache.dir
+/Users/dtech/downloads/brainfuck/build/CMakeFiles/rebuild_cache.dir
